@@ -3,7 +3,7 @@ angular-metawidget
 
 Javascript portions of metawidget 3.2 so it can be tested with the bower portion of yeoman workflow.
 
-*Copyrights, licenses, warrenties are established by the original library owner.*
+*Copyrights, licenses, warrenties, etc are established by the original library owner.*
 ==========
 
 Official sources:
